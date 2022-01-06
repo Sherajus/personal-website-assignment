@@ -157,4 +157,125 @@ body{
 }
 .limitless-coding-sec{
     padding-left: 40px;
+    padding-top: 60px;
 }
+.community-sec{
+    display: flex;
+}
+.community-title{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 55px;
+    font-weight: 900;
+    padding-top: 20px;
+     padding-left: 10px;
+
+}   
+.know-community-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image : linear-gradient(rgb(64, 64, 207) ,rgb(96, 180, 212));
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.know-community-button-div{
+    padding-top: 20px ;
+}
+
+.exercise-container{
+    display: flex;
+   
+   
+   }
+   .exercise-container img{
+       width:40%;
+       border: 5px rgb(5, 82, 78);
+       margin-left: 90px ;
+       margin-top: 70px;
+       margin-bottom: 50px;
+       border-radius: 20px;
+   }
+   .exercise-header{
+       font-family: 'DM Sans', sans-serif;
+       font-size: 55px;
+       font-weight: 900;
+       padding-top: 50px;
+        padding-left: 100px;
+   }
+   .paragraph{
+       font-family: 'Poppins', sans-serif;
+       width: 70%;
+       font-size: 18px;
+       font-weight: 400;
+       text-align: justify;
+       padding-left: 100px;
+      
+   }
+   .read-more-button{
+       text-decoration: none;
+       color: white;
+       font-weight: 700;
+       background-image : linear-gradient(rgb(64, 64, 207) ,rgb(96, 180, 212));
+       border-radius: 5px;
+       padding: 10px 20px;
+   }
+   .read-more-button-div{
+       padding: 30px 100px;
+   }
+   .bg-img{
+       background-image: url(images/shapes/shape-1.png );
+      
+       background-position-y: 100px;
+       background-size:50% 50% ;
+       background-repeat: no-repeat;
+       padding-left: 100px;
+   }
+   .work-hard-sec{
+       padding-left: 40px;
+       padding-top: 60px;
+   }
+   .community-sec{
+       display: flex;
+   }
+
+   .another-color{
+       color: royalblue;
+   }
+   .join-us-button-div{
+    padding: 30px 100px;}
+   .join-us-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image : linear-gradient(rgb(64, 64, 207) ,rgb(96, 180, 212));
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.pictures{
+    display: flex;
+}
+.half-portion{
+       width: 100%;
+       padding-left: 90px;
+}
+.half-portion2{
+    width: 100%;
+    padding-top: 50px;
+}
+.f-div{
+    font-family: 'Licorice', cursive;
+    font-size: 40px;
+    font-weight: 700;
+    color: blanchedalmond;
+}
+#fyear{
+    color: rgb(128, 33, 33);
+}
+footer{
+    color: burlywood;
+    background-color: rgb(3, 1, 24);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
